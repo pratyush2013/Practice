@@ -15,7 +15,7 @@ class Node(object):
     @staticmethod
     def add_to_dictionary():
 
-       """"To add all the alphabets in dictionary
+       """To add all the alphabets in dictionary
            currently A-Z and a-z are the only 
            included range
        """            
